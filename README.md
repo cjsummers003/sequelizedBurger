@@ -19,7 +19,6 @@ https://secret-reaches-40497.herokuapp.com
   <li> express-handlebars</li>
   <li> method-override</li>
   <li> mysql</li>
- 
  </ul>
 <br>
 <h2><strong>Built With</strong></h2>
